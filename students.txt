@@ -1,0 +1,6 @@
+[First Name,Last Name,Student Number]
+Jane,Doe,12345
+Doe,John,78910
+Allen,Smith,54321
+Sara,Patel,31243
+Tyson,Chea,21567
