@@ -1,4 +1,4 @@
-# Student Management System
+# 🏫 Student Management System
 A complete student management and attendance tracking application built with Python using Object-Oriented Programming and a user-friendly GUI created with Tkinter. This system is designed for educational institutions to manage student records, attendance, test scores, and visualize performance with ease.
 
 ## 🚀 Features
