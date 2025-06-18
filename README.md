@@ -39,7 +39,7 @@ A complete student management and attendance tracking application built with Pyt
 ## 🛠 Technologies Used
  - Python 3
 
- - Tkinter – GUI library, Canvas (graph plotting
+ - Tkinter – GUI library, Canvas (graph plotting)
 
  - SQLite – Embedded database
 
